@@ -17,5 +17,8 @@
     "dynaconf",
     "nohtyp"
   ],
-  "search-online.search-engine": "Google"
+  "search-online.search-engine": "Google",
+  "files.watcherExclude": {
+    "**/target": true
+  }
 }
