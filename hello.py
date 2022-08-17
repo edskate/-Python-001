@@ -12,8 +12,10 @@ name='edilson'
 age=48
 print("hello my name is %s and I am %d yers old" % (name, age))
 
-nome ='1 bruno '
+nome ='1 ed'
+nome = '2 ed'
 
+name="mara"
+nomes =[nome, nome]
 
-nomes =[nome,nome, nome]
 
