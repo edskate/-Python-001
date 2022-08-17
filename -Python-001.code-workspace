@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "-Python-001 @ cb0d2d0",
+			"uri": "gitlens://7b22726566223a2263623064326430393561303837353665353931636333663265323635333766346535363331643465222c227265706f50617468223a22633a2f55736572732f4544204d204a2f4465736b746f702f70726f6a65746f20312f2d507974686f6e2d303031227d/c:/Users/ED M J/Desktop/projeto 1/-Python-001?{\"ref\":\"cb0d2d0\"}"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"titleBar.activeBackground": "#0d860a"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "-Python-001 @ cb0d2d0"
+	}
+}
